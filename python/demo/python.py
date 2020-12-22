@@ -19,6 +19,4 @@ def create_img():
 	plt.savefig("xxx.jpg")
 	plt.show()
 
-
 create_img()
-
