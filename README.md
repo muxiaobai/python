@@ -15,3 +15,4 @@ cd ./
 jupyter notebook
 
 ```
+https://kivy-cn.github.io/Stanford-CS-229-CN/#/

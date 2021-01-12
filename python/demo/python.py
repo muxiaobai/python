@@ -1,5 +1,7 @@
 # encoding=utf8
 
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 #pd.read_csv()
 import os
